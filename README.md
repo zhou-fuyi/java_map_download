@@ -1,6 +1,7 @@
 # 地图瓦片图下载器
 
 #### 本处为备份仓库，码云为主仓库
+#### 本处只在新版本发布时同步代码，欢迎大家去主仓库点赞
 #### 码云仓库地址：https://gitee.com/CrimsonHu/java_map_download
 
 #### 使用JetBrains Runtime 17，SpringBoot 3.0，JCEF版本为Chromium 104
